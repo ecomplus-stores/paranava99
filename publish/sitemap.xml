@@ -8,6 +8,12 @@
     </url>
   
     <url>
+      <loc>https://paranava99.netlify.app/iptv--tv-box-so-internet</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://paranava99.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
